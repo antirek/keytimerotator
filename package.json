@@ -1,0 +1,28 @@
+{
+  "name": "keytimerotator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/keytimerotator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antirek/keytimerotator/issues"
+  },
+  "homepage": "https://github.com/antirek/keytimerotator",
+  "devDependencies": {
+    "jasmine": "^2.3.2",
+    "keyrotator": "0.0.1"
+  },
+  "dependencies": {
+    "clone": "^1.0.2",
+    "keyrotator": "0.0.1",
+    "node-schedule": "^0.2.9"
+  }
+}
